@@ -1,0 +1,2 @@
+﻿/*Sim.A ideia das árvores binárias encadeadas é tornar o percurso inorder mais rápido e fazê-lo sem pilha e sem recursão. Uma árvore binária é feita encadeada fazendo todos os ponteiros filhos direitos que normalmente seriam NULL apontar para o sucessor inorder do nó (se existir).
+Existem dois tipos de árvores binárias encadeadas.*/
